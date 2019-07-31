@@ -1,0 +1,66 @@
+#### 1.0 Introduction Of Python:-
+
+1) Developed By:- Guido Van Rossum
+2) Year:- 20th Feb 1991
+3) Written in C.
+4) Python is general purpose interpreted, OOP, POP and scripting language.
+5) Python is derived from many other languages including C, C++, Modula-3, Algo and Unix shell and other scripting language.
+6) Functional programming language is derived from C.
+7) OOP derived from C++.
+8) Scripting language is derived from Perl and Shell.
+9) Syntax derived from C and ABC.
+
+
+#### 1.1 Motivation Behind Python
+
+1) One step solution:- One programming should cover all programming approach i.e. POP, OOP, Scripting.
+2) Fun-Loving and Simple
+
+#### 1.2 Why Python Name:-
+
+- It is an easy and fun loving programming.
+- Name is refer from one TV Channel show.
+- Channel Name:- BBC
+- Show Name:- Monty Python Flying Circus.
+
+#### 1.3 Features Of Python
+
+1) Simple
+2) High level programming language
+3) Dynamic typed programming
+4) Freeware
+5) Open-source
+6) Platform independence
+7) Portable
+8) Interpreted and Compiled
+9) Automatic garbage collection
+
+
+#### 1.4 Application of Python
+
+1) Desktop Application
+2) Web based Application
+3) Database
+4) Networking
+5) Games
+6) IOT
+7) Machine Learning
+8) Deep Learning
+9) Neural Network
+10) Computer Vision
+11) Natural Language Processing
+12) Robotics
+13) Image Processing
+14) AI
+
+#### Flavour & Standard Of Python:-
+
+1) CPython -> Standard Python
+2) JPython -> Java Python
+3) IronPython -> C# Python
+4) PyPyPython -> Performance Python
+5) RubyPython -> Ruby Python
+6) AnacondaPython -> Big Data Python
+7) Stackless Python -> Concurrency Python
+
+
