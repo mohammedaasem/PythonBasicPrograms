@@ -53,7 +53,7 @@
 13) Image Processing
 14) AI
 
-#### Flavour & Standard Of Python:-
+#### 1.5 Flavour & Standard Of Python:-
 
 1) CPython -> Standard Python
 2) JPython -> Java Python
@@ -64,3 +64,9 @@
 7) Stackless Python -> Concurrency Python
 
 
+#### 1.6 Python Version
+
+1) 1.x  -> 1994
+2) 2.x  -> 2000
+3) 3.x  -> 2008
+    - 3.7 -> 2018
