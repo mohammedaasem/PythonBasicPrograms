@@ -1,0 +1,7 @@
+print("1")
+print("2")
+print("3", "4")
+print("5", "6", end="")
+print("7", "8", sep="")
+print("9", "10", sep="")
+print("11", "12", sep=",")
